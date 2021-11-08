@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Achyut08&theme=react&cache_seconds=30&hide_border=true"/>
+</p>
